@@ -1,0 +1,287 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header{
+            display:flex;
+            background-color:#316DC3;
+            color:white;
+            
+          
+}
+
+
+
+
+.top-navbar{
+                background-color:#316DC3;
+                color:white;
+}
+
+
+
+
+
+
+.icons{
+            list-style-type:none;
+            float:left;
+            color:white;
+            
+          
+}
+
+
+
+
+
+
+
+
+.navigation:hover{
+                        background-color:#316DC3;
+                        border-radius:30px;
+                        color:#fff !important;
+    
+}
+
+.saylanilogo{
+                margin-left:30px;
+}
+
+
+.active{
+            background-color:#316DC3;
+            border-radius: 30px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+                color:black;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color:#fff;
+    background-color:#316DC3;
+}
+
+
+
+.nav-link:hover{
+
+    background-color:#316DC3;
+    border-radius:30px;
+    color:#fff; !important;
+
+}
+
+.nav-link{
+    color:#fff;
+}
+
+.navbar-nav{
+                margin-right:30px;
+
+}
+
+.scroll .scroll-text
+{
+    background-color: #316DC3;
+    font-size:0.9em;
+    margin: 0 auto;
+    margin-top:9px;
+    
+    color:#fff;
+}
+
+  
+
+
+
+.features{
+    background-color:#f7f8fa;
+    padding-bottom: 100px;
+}
+
+.iconimage{
+             margin: 0 auto;
+}
+
+.section-text{
+                    margin-top:20px;
+                    margin: 0 auto;
+                   
+                    color:rgb(102, 102, 102);
+                    font-size:1em;
+                    text-align:justify;
+                    line-height:1.7;
+}
+
+.Services{
+                color:#fff;
+               font-weight:bold;
+               width:100%;
+             display:inline-block;
+             background-color:rgb(12, 87, 192);
+            padding:100px;
+           
+             display:flex;
+             margin-top:80px
+}
+
+.services-one{
+                padding:50px;
+}
+
+
+
+.centralising{
+                margin:0 auto;
+}
+
+
+.Mid{
+            margin-top:40px;
+           
+}
+
+.custom
+{
+    margin-left:80px;
+    margin-top: 40px;
+
+}
+
+.activity
+{
+   display:flex;
+   background-color: #F7F8FA;
+}
+
+
+
+
+.custom-dev h4{
+    font-size:0.9em;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.custom-card{
+    background-color:#fff;
+    margin-left:50px;
+    margin-top:50px;
+    box-shadow: 1px 1px #888888;
+  
+}
+
+
+.schemes-cards
+{
+    margin: 0 auto;
+    display:flex;
+    margin-top:50px;
+}
+
+
+.schemes{
+    background-color:#F7F8FA;
+    font-size:0.9em;
+   
+}
+
+
+.custom-schemes h4{
+    font-size:1.1em;
+         
+}
+
+.custom-schemes{
+            margin-left:5px;
+            margin-top:30px;
+}
+
+
+
+
+
+
+.image-section{
+                margin-top:80px;
+}
+
+
+.footer-link{
+                margin-top:20px;
+                width:100%;
+                height:320px;
+                background-color:#25272e;
+                color:rgb(187, 187, 187);
+}
+
+.foot-icons{
+                list-style-type:none;
+}
+
+
+
+.links{
+            display:flex;
+}
+
+
+.footer-list{
+                
+                  margin: 40px 0 0 160px;
+}
+
+.footer-list ul li , .font-11{
+    color:#bbb;
+                    padding:2px;
+                    font-size:0.8em;
+                    list-style-type:none;
+           
+}
+
+.fa{
+            border:none;
+           
+            font-size:inherit;
+}
+
+.footer-icons {
+    
+    margin: 50px 0 0 150px;
+
+}
+
+
+
+.social{
+            
+           
+}
+
+.foot-icons .icons{
+                    margin:0px;
+                    float:left;
+}
+
+
+
+.footer-copyright{
+
+    width:100%;
+height:40px;
+background-color:#316DD9;
+}
